@@ -11,6 +11,9 @@
   - pretrained_model: model yang telah dilatih dalam format .joblib.
   - submissions: prediksi dari model dalam format .csv.
 
+# 📖Referensi
+  - [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
+
 ***
 Semoga bermanfaat yah 😄
 
